@@ -122,71 +122,42 @@ export default AboutMe;
 
 <br>
 
-[<img align="left" height="50px" width="50px" alt="Itau" src="https://github.com/AnaProgramando/AnaProgramando/blob/b4e7a69bf544b7d92ff76e17cea0c7fb7bb48106/itau.png"/>](https://www.itau.com.br)
+[<img align="left" height="80px" width="80px" alt="Tortalabz" src="https://media.licdn.com/dms/image/C4D0BAQEc-YlQtp-daw/company-logo_100_100/0/1634653927834/tortalabz_innovations_logo?e=1730332800&v=beta&t=vx4pfq_Q7B9iEYS84VRG_qLdNDujUlmB9sW9MxbOFdA"/>](https://tortalabz.com/)
 
-[**Front End Developer | IT Engineering Analyst**](https://www.linkedin.com/in/ana-beatriz-valentim) \
-Itaú Unibanco\
-March 2022 - Present · 1 year\
+[**Front End Developer**](https://www.linkedin.com/in/smmahmudur/) \
+Tortalabz Innovation\
+March 2022 - Present · 2 year\
 `Front End`, `Front-End`, `Dev Front-End`, `Developer`\
 <br/>
 
-[<img align="left" height="50px" width="50px" alt="Itau" src="https://github.com/AnaProgramando/AnaProgramando/blob/b4e7a69bf544b7d92ff76e17cea0c7fb7bb48106/itau.png"/>](https://www.itau.com.br)
+[<img align="left" height="50px" width="50px" alt="Upwork" src="https://media.licdn.com/dms/image/C4E0BAQFAvA55uI9RQQ/company-logo_100_100/0/1630655510176/upwork_logo?e=1730332800&v=beta&t=Z38PFdcyFaqmvM5JRuQ_0ESFw3VxKcLdKHL6Bklm6fM"/>](https://www.upwork.com/)
 
-[**Back End Developer | IT Engineering Analyst**](https://www.linkedin.com/in/ana-beatriz-valentim) \
-Itaú Unibanco\
-April 2021 - February 2022 · 11 months\
-`Back End`, `Back-End`, `Dev Back-End`, `Developer`
+[**WordPress Web Developer**](https://www.linkedin.com/in/smmahmudur/) \
+Upwork\
+January 2020 - July 2021 · 1 year 7 months\
+`WordPress Developer`, `Web Developer`, `Theme Customization`, `Freelance`
  
 <br/>
 
-[<img align="left" height="50px" width="50px" alt="microsoft" src="https://github.com/AnaProgramando/AnaProgramando/blob/70fac7eefbd2229c564957e676ae2859afc3f967/ms.png"/>](https://www.microsoft.com/pt-br)
+[<img align="left" height="50px" width="50px" alt="Smart Technologies" src="https://media.licdn.com/dms/image/C560BAQE140S_Nd6c1g/company-logo_100_100/0/1630668195900/smarttechnologiesbdlimited_logo?e=1730332800&v=beta&t=0pYX9FkWEnRWU_1FA2nt_Lj5OsHVd7AHoCsVUKpiaM0"/>](https://www.microsoft.com/pt-br)
 
-[**Customer Program Manager Intern - SMB**](https://www.linkedin.com/in/ana-beatriz-valentim) \
-Microsoft\
-February 2020 - April 2021 · 1 year 3 months\
-`Cliente`, `Atendimento`, `Vendas`, `Estágio`
+[**Technical Support Engineer (Gigabyte)**](https://www.linkedin.com/in/smmahmudur/) \
+Smart Technologies (BD) Ltd\
+October 2017 - September 2019 · 2 years\
+`Motherboar Testing`, `Customer Support`, `Gigabyte Software`, `ERP Software`
  
-<br/>
-
-[<img align="left" height="50px" width="50px" alt="Accesstage" src="https://github.com/AnaProgramando/AnaProgramando/blob/cfdbff63b4cf4ba05a6ec8a02873cb8a7d028db1/Accesstage%20img.png"/>](https://site.accesstage.com.br)
-
-[**Operations Assistant - Billing e EDI**](https://www.linkedin.com/in/ana-beatriz-valentim) \
-Accesstage\
-July 2019 - January 2020 · 7 months\
-`Customer`, `Billing`, `Microsoft Dynamics CRM`
- 
-<br/>
-
-[<img align="left" height="50px" width="50px" alt="Accesstage" src="https://github.com/AnaProgramando/AnaProgramando/blob/cfdbff63b4cf4ba05a6ec8a02873cb8a7d028db1/Accesstage%20img.png"/>](https://site.accesstage.com.br)
-
-[**Billing and Technology Apprentice**](https://www.linkedin.com/in/ana-beatriz-valentim) \
-Accesstage\
-June 2018 - June 2019 · 1 year 1 month\
-`Customer`, `Billing`, `Microsoft Dynamics CRM`
-  
 <br>
 
 # 👩‍🎓 Educational background
 
 <br>
 
-<img align="left" height="50px" width="50px" alt="FIAP" src="https://github.com/AnaProgramando/AnaProgramando/blob/ded7de222e6a9822f83e68bc272197d2b4e2427a/fiap.png"/>
+<img align="left" height="80px" width="80px" alt="DIU" src="https://media.licdn.com/dms/image/C510BAQHgrI_g4VCPoQ/company-logo_100_100/0/1630619270013/dhaka_international_university_logo?e=1730332800&v=beta&t=PCHI4mue2mcyQwV4fpI2lgvE_C1Zp85JhNukz9nixzU"/>
 
-**MBA in Software Engineering**\
-FIAP - University - Faculty of Informatics and Administration Paulista\
-April 2023 - May 2024
+**Bachelor of Science in Electrical Electronics & Telecommunication Engineering**\
+Dhaka International University(DIU)\
+July 2009 - April 2014
 
-<img align="left" height="50px" width="50px" alt="Estacio" src="https://github.com/AnaProgramando/AnaProgramando/blob/bb51d029022ab92f38db49c2be5d993e73f589b5/estacio.png"/>
-
-**Degree - Information Systems**\
-College Sociedade de Ensino Superior Estacio de Sá\
-July 2018 - June 2022 · 4 years
-
-<img align="left" height="50px" width="50px" alt="ETEC" src="https://github.com/AnaProgramando/AnaProgramando/blob/bb51d029022ab92f38db49c2be5d993e73f589b5/etec.png"/>
-
-**Professional Qualification in Computer Technology for the Internet**\
-State Technical School Parque da Juventude\
-2014 - 2016 · 3 years
   
 <br>
 
@@ -196,11 +167,9 @@ State Technical School Parque da Juventude\
  
 Feel free to connect with me on other social networks, and if you need help or have questions and suggestions, send me a message. 😉
 
-[<img align="left" alt="Gmail" width="80px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:anabe.valentim@gmail.com)
-[<img align="left" alt="LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/ana-beatriz-valentim)
-[<img align="left" alt="Beacons" width="80px" src="https://github.com/AnaProgramando/AnaProgramando/blob/31ac40741768033915a37ec0f949984bf6aad2d1/beacons_logo.png"/>](https://beacons.page/anaprogramando)
-[<img align="left" alt="GitHub" src="https://img.shields.io/github/followers/AnaProgramando?style=social&label=@AnaProgramando"/>](https://github.com/AnaProgramando)
-[<img align="left" alt="Codepen" src="https://img.shields.io/static/v1?label&message=/AnaProgramando&color=000000&style=flat&logo=codepen"/>](https://codepen.io/anaprogramando)
+[<img align="left" alt="Gmail" width="80px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:smmahmudur.rahmanbd@gmail.com)
+[<img align="left" alt="LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/smmahmudur)
+[<img align="left" alt="Stackoverflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge"/>](https://stackoverflow.com/users/16840541/mahmudur-rahman)
   
 <br><br>
 
@@ -209,8 +178,8 @@ Feel free to connect with me on other social networks, and if you need help or h
 <br>
 
 <p align="center">
-   <img width="48%" src="http://github-readme-streak-stats.herokuapp.com?user=AnaProgramando&theme=material-palenight&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=DBDADA&background=193549&ring=C577C2&fire=75EEB2&currStreakNum=75EEB2&sideNums=75EEB2&currStreakLabel=C577C2&sideLabels=C577C2&dates=75EEB2&border=DBDADA" />
-   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AnaProgramando&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" />
+   <img width="48%" src="http://github-readme-streak-stats.herokuapp.com?user=mahmudurbd&theme=material-palenight&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=DBDADA&background=193549&ring=C577C2&fire=75EEB2&currStreakNum=75EEB2&sideNums=75EEB2&currStreakLabel=C577C2&sideLabels=C577C2&dates=75EEB2&border=DBDADA" />
+   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mahmudurbd&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" />
 </p>
   
 <br>
@@ -240,7 +209,7 @@ I'm passionate about technology and learning, an open source fan and I do my bes
 
 I count on your support 😉
 
-<p><a href="https://www.buymeacoffee.com/AnaProgramando"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="teste" /></a><a href="https://ko-fi.com/anaprogramando"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="teste" /></a></p><br><br>
+<p><a href="https://buymeacoffee.com/mahmudurbd"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="teste" /></a><a href="https://ko-fi.com/mahmudur"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="teste" /></a></p><br><br>
 
   
 <br>
