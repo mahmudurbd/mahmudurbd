@@ -249,7 +249,7 @@ I count on your support 😉
 
 <br>
 
-![Snake animation](https://github.com/mahmudurbd/mahmudurbd/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/mahmudurbd/mahmudurbd/blob/output/github-contribution-grid-snake.svg)
 
 <br>
 
