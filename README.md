@@ -1,11 +1,10 @@
 ## Hello, I'm Mahudur Rahman! 👋
 
-<div align="right">
+<h3 align="center">
+A passionate Frontend Developer from Bangladesh <img style="vertical-align: sub" src="https://cdn.countryflags.com/thumbs/bangladesh/flag-waving-250.png" alt="Bangladesh Flag" width="25" />
 
-#### Profile in Bengali: <kbd>[<img title="Bengali" alt="Bengali" src="https://img.icons8.com/color/48/000000/bangladesh.png" width="22">](https://github.com/mahmudurbd/mahmudurbd/blob/main/README.md)</kbd>
-
-</div>
-
+</h3>
+<br>
 <div>
   <img align="center" alt="Banner-Ana" width="100%" src="https://github.com/AnaProgramando/AnaProgramando/blob/main/banner_welcome-us.png"/>
 </div>
@@ -13,13 +12,13 @@
 <div align="right">
 <br>
 
-![profile-views](https://komarev.com/ghpvc/?username=AnaProgramando&color=blueviolet)
+![profile-views](https://komarev.com/ghpvc/?username=mahmudurbd&color=blueviolet)
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=8833D7&width=600&height=60&lines=Welcome+to+my+Profile!+%F0%9F%98%89;I'm+Front+End+Developer%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Engineering+Analyst+at+Ita%C3%BA+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BC;UX+and+UI+in+Training+%F0%9F%91%A9%E2%80%8D%F0%9F%8E%A8;Bachelor+of+Information+Systems%F0%9F%91%A9%E2%80%8D%F0%9F%8E%93;Computer+Technician+for+Internet+%F0%9F%91%A9%E2%80%8D%F0%9F%94%A7)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=8833D7&width=600&height=60&lines=Welcome+to+my+Profile!+%F0%9F%98%89;I'm+Front+End+Developer%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;)](https://git.io/typing-svg)
 </div>
 
 # 👩‍💻 Profile
@@ -27,27 +26,43 @@
 <br>
 
 <div>
-  <img align="right" alt="Git-Computador" width="200px" height="200px" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif"/>
+  <img align="right" alt="Git-Computador" width="500px" height="500px" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif"/>
 </div>
 
 ```js
-import Developer from 'AnaProgramando';
-class AboutMe extends Developer {
-  name     = 'Ana Beatriz Valentim';
-  area    = 'Front-end';
-  job  = 'Itaú Unibanco';
-  country = 'Brazil';
-  state = 'São Paulo';
-  pronouns = 'she / her';
-}
+import React from 'react';
+
+const AboutMe = () => {
+  const developer = {
+    name: 'Mahmudur Rahman',
+    area: 'Front-end',
+    job: 'Tortalabz Innovation',
+    country: 'Bangladesh',
+    state: 'Rajshahi',
+    pronouns: 'he / his',
+  };
+
+  return (
+    <div>
+      <h1>About Me</h1>
+      <p><strong>Name:</strong> {developer.name}</p>
+      <p><strong>Area:</strong> {developer.area}</p>
+      <p><strong>Job:</strong> {developer.job}</p>
+      <p><strong>Country:</strong> {developer.country}</p>
+      <p><strong>State:</strong> {developer.state}</p>
+      <p><strong>Pronouns:</strong> {developer.pronouns}</p>
+    </div>
+  );
+};
+
+export default AboutMe;
+
 ```
 
 <br>
 
 - 👩‍💻 I'm a Front-end Developer.
-- 👩‍💼 Software Engineering Analyst at Itaú Unibanco.
-- 👩‍🎓 Bachelor of Information Systems.
-- 👩‍🔧 Computer Technician for Internet.
+- 👩‍🎓 Bachelor of Electrical Engineering.
 - 👩‍🏫 Studying to become a Full Stack Developer (Frontend and Backend)
 - 👩‍🚀 Passionate about Technology, Development, Learning and Creativity.
 - 🤝 Available to collaborate on innovative and disruptive projects and ideas.
@@ -74,7 +89,7 @@ class AboutMe extends Developer {
 
 <br>
 
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://shields.io/badge/react-black?logo=react&style=for-the-badge)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
@@ -98,7 +113,7 @@ class AboutMe extends Developer {
 <br>
 
 <p align="center">
- <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaProgramando&layout=compact&langs_count=16&theme=cobalt"/>
+ <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudurbd&layout=compact&langs_count=16&theme=cobalt"/>
 </p>
   
 <br>
@@ -205,7 +220,7 @@ Feel free to connect with me on other social networks, and if you need help or h
 <br>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img alt="Conquistas no GitHub" src="https://github-profile-trophy.vercel.app/?username=AnaProgramando&theme=discord&no-frame=true&column=7">
+    <img alt="Conquistas no GitHub" src="https://github-profile-trophy.vercel.app/?username=mahmudurbd&theme=discord&no-frame=true&column=7">
 </a>
   
 <br>
@@ -234,7 +249,7 @@ I count on your support 😉
 
 <br>
 
-![Snake animation](https://github.com/AnaProgramando/AnaProgramando/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/mahmudurbd/mahmudurbd/blob/output/github-contribution-grid-snake.svg)
 
 <br>
 
