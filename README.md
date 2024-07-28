@@ -1,4 +1,4 @@
-## Hello, I'm Mahudur Rahman! 👋
+## Hello, I'm Mahmudur Rahman! 👋
 
 <h3 align="center">
 A passionate Frontend Developer from Bangladesh <img style="vertical-align: sub" src="https://cdn.countryflags.com/thumbs/bangladesh/flag-waving-250.png" alt="Bangladesh Flag" width="25" />
