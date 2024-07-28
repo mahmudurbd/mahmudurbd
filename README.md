@@ -26,7 +26,7 @@ A passionate Frontend Developer from Bangladesh <img style="vertical-align: sub"
 <br>
 
 <div>
-  <img align="right" alt="Git-Computador" width="450px" height="500px" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif"/>
+  <img align="right" alt="Git-Computador" width="400px" height="500px" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif"/>
 </div>
 
 ```js
