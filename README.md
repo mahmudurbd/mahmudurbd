@@ -130,7 +130,7 @@ March 2022 - Present · 2 year\
 `Front End`, `Front-End`, `Dev Front-End`, `Developer`\
 <br/>
 
-[<img align="left" height="50px" width="50px" alt="Upwork" src="https://media.licdn.com/dms/image/C4E0BAQFAvA55uI9RQQ/company-logo_100_100/0/1630655510176/upwork_logo?e=1730332800&v=beta&t=Z38PFdcyFaqmvM5JRuQ_0ESFw3VxKcLdKHL6Bklm6fM"/>](https://www.upwork.com/)
+[<img align="left" height="80px" width="80px" alt="Upwork" src="https://media.licdn.com/dms/image/C4E0BAQFAvA55uI9RQQ/company-logo_100_100/0/1630655510176/upwork_logo?e=1730332800&v=beta&t=Z38PFdcyFaqmvM5JRuQ_0ESFw3VxKcLdKHL6Bklm6fM"/>](https://www.upwork.com/)
 
 [**WordPress Web Developer**](https://www.linkedin.com/in/smmahmudur/) \
 Upwork\
@@ -139,7 +139,7 @@ January 2020 - July 2021 · 1 year 7 months\
  
 <br/>
 
-[<img align="left" height="50px" width="50px" alt="Smart Technologies" src="https://media.licdn.com/dms/image/C560BAQE140S_Nd6c1g/company-logo_100_100/0/1630668195900/smarttechnologiesbdlimited_logo?e=1730332800&v=beta&t=0pYX9FkWEnRWU_1FA2nt_Lj5OsHVd7AHoCsVUKpiaM0"/>](https://www.microsoft.com/pt-br)
+[<img align="left" height="80px" width="80px" alt="Smart Technologies" src="https://media.licdn.com/dms/image/C560BAQE140S_Nd6c1g/company-logo_100_100/0/1630668195900/smarttechnologiesbdlimited_logo?e=1730332800&v=beta&t=0pYX9FkWEnRWU_1FA2nt_Lj5OsHVd7AHoCsVUKpiaM0"/>](https://www.microsoft.com/pt-br)
 
 [**Technical Support Engineer (Gigabyte)**](https://www.linkedin.com/in/smmahmudur/) \
 Smart Technologies (BD) Ltd\
