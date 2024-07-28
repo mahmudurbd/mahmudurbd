@@ -1,30 +1,249 @@
-<h1 align="center">Hi 👋, I'm Mahmudur Rahman</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+## Hello, I'm Mahudur Rahman! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmudurbd&label=Profile%20views&color=0e75b6&style=flat" alt="mahmudurbd" /> </p>
+<div align="right">
 
-<p align="left"> <a href="https://twitter.com/smmahmudurbd" target="blank"><img src="https://img.shields.io/twitter/follow/smmahmudurbd?logo=twitter&style=for-the-badge" alt="smmahmudurbd" /></a> </p>
+#### Profile in Bengali: <kbd>[<img title="Bengali" alt="Bengali" src="https://img.icons8.com/color/48/000000/bangladesh.png" width="22">](https://github.com/mahmudurbd/mahmudurbd/blob/main/README.md)</kbd>
 
-- 👨‍💻 All of my projects are available at [https://mahmudur.netlify.app/](https://mahmudur.netlify.app/)
+</div>
 
-- 💬 Ask me about **React, Web Development, Responsive Design**
+<div>
+  <img align="center" alt="Banner-Ana" width="100%" src="https://github.com/AnaProgramando/AnaProgramando/blob/main/banner_welcome-us.png"/>
+</div>
 
-- 📫 How to reach me **smmahmudur.rahmanbd@gmail.com**
+<div align="right">
+<br>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-Iq6Y-7O957MRrojguS2FAAFl6ta-C5F/view](https://drive.google.com/file/d/1-Iq6Y-7O957MRrojguS2FAAFl6ta-C5F/view)
+![profile-views](https://komarev.com/ghpvc/?username=AnaProgramando&color=blueviolet)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/smmahmudurbd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="smmahmudurbd" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/smmahmudur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="smmahmudur" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/mahmudur-rahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mahmudur-rahman" height="30" width="40" /></a>
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=8833D7&width=600&height=60&lines=Welcome+to+my+Profile!+%F0%9F%98%89;I'm+Front+End+Developer%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Engineering+Analyst+at+Ita%C3%BA+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BC;UX+and+UI+in+Training+%F0%9F%91%A9%E2%80%8D%F0%9F%8E%A8;Bachelor+of+Information+Systems%F0%9F%91%A9%E2%80%8D%F0%9F%8E%93;Computer+Technician+for+Internet+%F0%9F%91%A9%E2%80%8D%F0%9F%94%A7)](https://git.io/typing-svg)
+</div>
+
+# 👩‍💻 Profile
+
+<br>
+
+<div>
+  <img align="right" alt="Git-Computador" width="200px" height="200px" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif"/>
+</div>
+
+```js
+import Developer from 'AnaProgramando';
+class AboutMe extends Developer {
+  name     = 'Ana Beatriz Valentim';
+  area    = 'Front-end';
+  job  = 'Itaú Unibanco';
+  country = 'Brazil';
+  state = 'São Paulo';
+  pronouns = 'she / her';
+}
+```
+
+<br>
+
+- 👩‍💻 I'm a Front-end Developer.
+- 👩‍💼 Software Engineering Analyst at Itaú Unibanco.
+- 👩‍🎓 Bachelor of Information Systems.
+- 👩‍🔧 Computer Technician for Internet.
+- 👩‍🏫 Studying to become a Full Stack Developer (Frontend and Backend)
+- 👩‍🚀 Passionate about Technology, Development, Learning and Creativity.
+- 🤝 Available to collaborate on innovative and disruptive projects and ideas.
+- 🚀 I'm an Open Source adept.
+- ❤️ When I'm not coding, you can find me studying, reading, and spending time with my family.
+- 🤔 Ask me about: Frontend.
+
+<br>
+
+# ⌨️ Languages
+
+<br>
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+
+# 📚 Libraries & Framework
+
+<br>
+
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+
+# 🛠️ Tools & Platforms
+
+<br>
+
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![VS](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+  
+<br>
+
+# 🔝 Most Used Languages
+
+<br>
+
+<p align="center">
+ <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaProgramando&layout=compact&langs_count=16&theme=cobalt"/>
 </p>
+  
+<br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+# 👩‍💼 Work Experience
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmudurbd&show_icons=true&locale=en&layout=compact" alt="mahmudurbd" /></p>
+<br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmudurbd&show_icons=true&locale=en" alt="mahmudurbd" /></p>
+[<img align="left" height="50px" width="50px" alt="Itau" src="https://github.com/AnaProgramando/AnaProgramando/blob/b4e7a69bf544b7d92ff76e17cea0c7fb7bb48106/itau.png"/>](https://www.itau.com.br)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmudurbd&" alt="mahmudurbd" /></p>
+[**Front End Developer | IT Engineering Analyst**](https://www.linkedin.com/in/ana-beatriz-valentim) \
+Itaú Unibanco\
+March 2022 - Present · 1 year\
+`Front End`, `Front-End`, `Dev Front-End`, `Developer`\
+<br/>
+
+[<img align="left" height="50px" width="50px" alt="Itau" src="https://github.com/AnaProgramando/AnaProgramando/blob/b4e7a69bf544b7d92ff76e17cea0c7fb7bb48106/itau.png"/>](https://www.itau.com.br)
+
+[**Back End Developer | IT Engineering Analyst**](https://www.linkedin.com/in/ana-beatriz-valentim) \
+Itaú Unibanco\
+April 2021 - February 2022 · 11 months\
+`Back End`, `Back-End`, `Dev Back-End`, `Developer`
+ 
+<br/>
+
+[<img align="left" height="50px" width="50px" alt="microsoft" src="https://github.com/AnaProgramando/AnaProgramando/blob/70fac7eefbd2229c564957e676ae2859afc3f967/ms.png"/>](https://www.microsoft.com/pt-br)
+
+[**Customer Program Manager Intern - SMB**](https://www.linkedin.com/in/ana-beatriz-valentim) \
+Microsoft\
+February 2020 - April 2021 · 1 year 3 months\
+`Cliente`, `Atendimento`, `Vendas`, `Estágio`
+ 
+<br/>
+
+[<img align="left" height="50px" width="50px" alt="Accesstage" src="https://github.com/AnaProgramando/AnaProgramando/blob/cfdbff63b4cf4ba05a6ec8a02873cb8a7d028db1/Accesstage%20img.png"/>](https://site.accesstage.com.br)
+
+[**Operations Assistant - Billing e EDI**](https://www.linkedin.com/in/ana-beatriz-valentim) \
+Accesstage\
+July 2019 - January 2020 · 7 months\
+`Customer`, `Billing`, `Microsoft Dynamics CRM`
+ 
+<br/>
+
+[<img align="left" height="50px" width="50px" alt="Accesstage" src="https://github.com/AnaProgramando/AnaProgramando/blob/cfdbff63b4cf4ba05a6ec8a02873cb8a7d028db1/Accesstage%20img.png"/>](https://site.accesstage.com.br)
+
+[**Billing and Technology Apprentice**](https://www.linkedin.com/in/ana-beatriz-valentim) \
+Accesstage\
+June 2018 - June 2019 · 1 year 1 month\
+`Customer`, `Billing`, `Microsoft Dynamics CRM`
+  
+<br>
+
+# 👩‍🎓 Educational background
+
+<br>
+
+<img align="left" height="50px" width="50px" alt="FIAP" src="https://github.com/AnaProgramando/AnaProgramando/blob/ded7de222e6a9822f83e68bc272197d2b4e2427a/fiap.png"/>
+
+**MBA in Software Engineering**\
+FIAP - University - Faculty of Informatics and Administration Paulista\
+April 2023 - May 2024
+
+<img align="left" height="50px" width="50px" alt="Estacio" src="https://github.com/AnaProgramando/AnaProgramando/blob/bb51d029022ab92f38db49c2be5d993e73f589b5/estacio.png"/>
+
+**Degree - Information Systems**\
+College Sociedade de Ensino Superior Estacio de Sá\
+July 2018 - June 2022 · 4 years
+
+<img align="left" height="50px" width="50px" alt="ETEC" src="https://github.com/AnaProgramando/AnaProgramando/blob/bb51d029022ab92f38db49c2be5d993e73f589b5/etec.png"/>
+
+**Professional Qualification in Computer Technology for the Internet**\
+State Technical School Parque da Juventude\
+2014 - 2016 · 3 years
+  
+<br>
+
+# ✉️ Contacts
+
+<br>
+ 
+Feel free to connect with me on other social networks, and if you need help or have questions and suggestions, send me a message. 😉
+
+[<img align="left" alt="Gmail" width="80px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:anabe.valentim@gmail.com)
+[<img align="left" alt="LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/ana-beatriz-valentim)
+[<img align="left" alt="Beacons" width="80px" src="https://github.com/AnaProgramando/AnaProgramando/blob/31ac40741768033915a37ec0f949984bf6aad2d1/beacons_logo.png"/>](https://beacons.page/anaprogramando)
+[<img align="left" alt="GitHub" src="https://img.shields.io/github/followers/AnaProgramando?style=social&label=@AnaProgramando"/>](https://github.com/AnaProgramando)
+[<img align="left" alt="Codepen" src="https://img.shields.io/static/v1?label&message=/AnaProgramando&color=000000&style=flat&logo=codepen"/>](https://codepen.io/anaprogramando)
+  
+<br><br>
+
+# 📊 My GitHub Stats
+
+<br>
+
+<p align="center">
+   <img width="48%" src="http://github-readme-streak-stats.herokuapp.com?user=AnaProgramando&theme=material-palenight&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=DBDADA&background=193549&ring=C577C2&fire=75EEB2&currStreakNum=75EEB2&sideNums=75EEB2&currStreakLabel=C577C2&sideLabels=C577C2&dates=75EEB2&border=DBDADA" />
+   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AnaProgramando&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" />
+</p>
+  
+<br>
+
+# 🏅 My GitHub Achievements
+
+<br>
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img alt="Conquistas no GitHub" src="https://github-profile-trophy.vercel.app/?username=AnaProgramando&theme=discord&no-frame=true&column=7">
+</a>
+  
+<br>
+
+# ☕ Buy Me a Coffee
+
+<br>
+
+<div>
+  <img align="right" alt="coffee code" width="130px" height="100px" src="https://media.giphy.com/media/n91JEAiCcbcBOkSzQa/giphy.gif"/>
+</div>
+
+I convert coffee to code!
+<br>
+
+I'm passionate about technology and learning, an open source fan and I do my best to share what I'm studying to help other developers.
+
+I count on your support 😉
+
+<p><a href="https://www.buymeacoffee.com/AnaProgramando"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="teste" /></a><a href="https://ko-fi.com/anaprogramando"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="teste" /></a></p><br><br>
+
+  
+<br>
+
+# 🐍 Commit Snake
+
+<br>
+
+![Snake animation](https://github.com/AnaProgramando/AnaProgramando/blob/output/github-contribution-grid-snake.svg)
+
+<br>
+
+<br>
+
+[<img align="right" alt="Back to the top" width="80px" src="https://img.shields.io/static/v1?label&message=Back+to+the+top&color=blueviolet&style=flat&logo"/>](https://github.com/AnaProgramando/AnaProgramando/blob/main/README-us.md#hello-im-ana-)
+
+<br>
+ 
+ <div>
+  <img align="center" alt="Pixel-Art" width="100%" src="https://github.com/AnaProgramando/AnaProgramando/blob/1abca3c99b5e79e7d3887d75d484642f2e574f26/aa.gif"/>
+</div>
