@@ -159,7 +159,7 @@ January 2020 - July 2021 · 1 year 7 months\
  
 <br/>
 
-[<img align="left" height="80px" width="80px" alt="Smart Technologies" src="https://media.licdn.com/dms/image/C560BAQE140S_Nd6c1g/company-logo_100_100/0/1630668195900/smarttechnologiesbdlimited_logo?e=1730332800&v=beta&t=0pYX9FkWEnRWU_1FA2nt_Lj5OsHVd7AHoCsVUKpiaM0"/>](https://www.microsoft.com/pt-br)
+[<img align="left" height="80px" width="80px" alt="Smart Technologies" src="https://media.licdn.com/dms/image/C560BAQE140S_Nd6c1g/company-logo_100_100/0/1630668195900/smarttechnologiesbdlimited_logo?e=1730332800&v=beta&t=0pYX9FkWEnRWU_1FA2nt_Lj5OsHVd7AHoCsVUKpiaM0"/>](https://smartbd.com/)
 
 [**Technical Support Engineer (Gigabyte)**](https://www.linkedin.com/in/smmahmudur/) \
 Smart Technologies (BD) Ltd\
