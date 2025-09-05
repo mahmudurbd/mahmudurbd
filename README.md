@@ -6,7 +6,7 @@ A passionate Frontend Developer from Bangladesh <img style="vertical-align: sub"
 </h3>
 <br>
 <div>
-  <img align="center" alt="Banner-Mahmudur" width="100%" src="https://media.licdn.com/dms/image/C5616AQHMMd3aVqdRVg/profile-displaybackgroundimage-shrink_350_1400/0/1638558262183?e=1727913600&v=beta&t=_RBjQ3514PkTYOQM4nGZQTvNi4kmBBjnfhfCDe0UHIU"/>
+  <img align="center" alt="Banner-Mahmudur" width="100%" src="https://media.licdn.com/dms/image/v2/D5616AQE3RE69JTEMIA/profile-displaybackgroundimage-shrink_350_1400/B56ZkbXJF9I8AY-/0/1757100676716?e=1759968000&v=beta&t=60HwuQW3r3lk08cOIGjqfMlQeZU8GrAcWk0dcOJS0BA"/>
 </div>
 
 <div align="right">
