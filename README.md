@@ -1,12 +1,12 @@
 ## Hello, I'm Mahmudur Rahman! 👋
 
 <h3 align="center">
-A passionate Frontend Developer from Bangladesh <img style="vertical-align: sub" src="https://cdn.countryflags.com/thumbs/bangladesh/flag-waving-250.png" alt="Bangladesh Flag" width="25" />
+Technical Support Engineer with a Developer Mindset | Frontend Developer from Bangladesh <img style="vertical-align: sub" src="https://cdn.countryflags.com/thumbs/bangladesh/flag-waving-250.png" alt="Bangladesh Flag" width="25" />
 
 </h3>
 <br>
 <div>
-  <img align="center" alt="Banner-Mahmudur" width="100%" src="https://media.licdn.com/dms/image/v2/D5616AQE3RE69JTEMIA/profile-displaybackgroundimage-shrink_350_1400/B56ZkbXJF9I8AY-/0/1757100676716?e=1759968000&v=beta&t=60HwuQW3r3lk08cOIGjqfMlQeZU8GrAcWk0dcOJS0BA"/>
+  <img align="center" alt="Banner-Mahmudur" width="100%" src="https://media.licdn.com/dms/image/v2/D5616AQHWcV6pAOOepQ/profile-displaybackgroundimage-shrink_200_800/B56Z_S846eJ8AY-/0/1785950605370?e=1787788800&v=beta&t=6cxee4A1pyZ6zXYAWQ4LZCUsOojogzx5t8xDcdK75qg"/>
 </div>
 
 <div align="right">
@@ -18,10 +18,11 @@ A passionate Frontend Developer from Bangladesh <img style="vertical-align: sub"
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=8833D7&width=600&height=60&lines=Welcome+to+my+Profile!+%F0%9F%98%89;I'm+Front+End+Developer%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=8833D7&width=600&height=60&lines=Welcome+to+my+Profile!+%F0%9F%98%89;I'm+Technical+Support+Engineer%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Frontend+Developer%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;)](https://git.io/typing-svg)
 </div>
 
-# 👩‍💻 Profile
+
+# 👨‍💻 Profile
 
 <br>
 
@@ -29,46 +30,52 @@ A passionate Frontend Developer from Bangladesh <img style="vertical-align: sub"
   <img align="right" alt="Git-Computador" width="400px" height="500px" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif"/>
 </div>
 
-```js
-import React from 'react';
 
-const AboutMe = () => {
-  const developer = {
-    name: 'Mahmudur Rahman',
-    area: 'Front-end',
-    job: 'Tortalabz Innovation',
-    country: 'Bangladesh',
-    state: 'Rajshahi',
-    pronouns: 'he / his',
-  };
-
-  return (
-    <div>
-      <h1>About Me</h1>
-      <p><strong>Name:</strong> {developer.name}</p>
-      <p><strong>Area:</strong> {developer.area}</p>
-      <p><strong>Job:</strong> {developer.job}</p>
-      <p><strong>Country:</strong> {developer.country}</p>
-      <p><strong>State:</strong> {developer.state}</p>
-      <p><strong>Pronouns:</strong> {developer.pronouns}</p>
-    </div>
-  );
+```javascript
+const profile = {
+  firstName: "Mahmudur",
+  lastName: "Rahman",
+  aka: "Mamun",
+  roles: [
+    "Technical Support Engineer",
+    "Software Developer"
+  ],
+  hobby: (type) => {
+    if (type === "support") {
+      troubleshoot();
+      communicate();
+      resolve();
+    }
+    if (type === "development") {
+      design();
+      develop();
+      improve();
+    }
+  }
 };
-
-export default AboutMe;
 
 ```
 
 <br>
 
-- 👩‍💻 I'm a Front-end Developer.
-- 👩‍🎓 Bachelor of Electrical Engineering.
-- 👩‍🏫 Studying to become a Full Stack Developer (Frontend and Backend)
-- 👩‍🚀 Passionate about Technology, Development, Learning and Creativity.
-- 🤝 Available to collaborate on innovative and disruptive projects and ideas.
-- 🚀 I'm an Open Source adept.
-- ❤️ When I'm not coding, you can find me studying, reading, and spending time with my family.
-- 🤔 Ask me about: Frontend.
+- 🔧 Technical Support Engineer experienced in troubleshooting software and product issues.
+- 🎓 Bachelor of Electrical Engineering.
+- ⚛️ Frontend Developer specializing in React.js applications
+- 🌎 Experienced in supporting international customers and collaborating with remote teams
+- 🐛 Passionate about debugging, problem-solving and improving user experiences
+- 📚 Continuously learning cloud technologies, automation and modern software practices
+- 🤝 Open to collaborating on meaningful software projects
+
+<br>
+
+# 🎧 Technical Support
+
+![Technical Support](https://img.shields.io/badge/Technical%20Support-2563EB?style=for-the-badge)
+![Troubleshooting](https://img.shields.io/badge/Troubleshooting-0F766E?style=for-the-badge)
+![Root Cause Analysis](https://img.shields.io/badge/Root%20Cause%20Analysis-7C3AED?style=for-the-badge)
+![Bug Reproduction](https://img.shields.io/badge/Bug%20Reproduction-DC2626?style=for-the-badge)
+![Customer Support](https://img.shields.io/badge/Customer%20Support-0891B2?style=for-the-badge)
+![Technical Documentation](https://img.shields.io/badge/Technical%20Documentation-475569?style=for-the-badge)
 
 <br>
 
@@ -83,6 +90,7 @@ export default AboutMe;
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
+<br>
 
 # 📚 Libraries & Framework
 
@@ -100,6 +108,15 @@ export default AboutMe;
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
+<br>
+
+# 🔌 APIs & Web Technologies
+
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![Chrome DevTools](https://img.shields.io/badge/Chrome%20DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+
+<br>
 
 # 🛠️ Tools & Software
 
@@ -128,21 +145,23 @@ export default AboutMe;
   
 <br>
 
-# 🔝 Most Used Languages
 
-<br>
-
-<p align="center">
- <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudurbd&layout=compact&langs_count=16&theme=cobalt"/>
-</p>
-  
-<br>
 
 # 👩‍💼 Work Experience
 
 <br>
 
-[<img align="left" height="80px" width="80px" alt="Tortalabz" src="https://media.licdn.com/dms/image/C4D0BAQEc-YlQtp-daw/company-logo_100_100/0/1634653927834/tortalabz_innovations_logo?e=1730332800&v=beta&t=vx4pfq_Q7B9iEYS84VRG_qLdNDujUlmB9sW9MxbOFdA"/>](https://tortalabz.com/)
+[<img align="left" height="80px" width="80px" alt="Codexpert" src="https://media.licdn.com/dms/image/v2/C510BAQGicbNhXzOwfw/company-logo_100_100/company-logo_100_100/0/1630595112279?e=1787788800&v=beta&t=gbV_SzObamYCJ_4ZTIXSsGnq9ZrdA3E0w0mZ-G2M-QE"/>](https://codexpert.io/)
+
+[**Technical Support Engineer**](https://www.linkedin.com/in/smmahmudur/) \
+Codexpert, Inc\
+January 2026 - May 2026 · 4 Months\
+`Technical Support`, `WordPress`, `Customer Support`, `Troubleshooting`, `Bug Investigation`, `Technical Documentation`\
+<br/>
+
+<br>
+
+[<img align="left" height="80px" width="80px" alt="Tortalabz" src="https://media.licdn.com/dms/image/v2/C4D0BAQEc-YlQtp-daw/company-logo_100_100/company-logo_100_100/0/1634653927834/tortalabz_innovations_logo?e=1787788800&v=beta&t=Oa5zbrScH3lMZly3tFi4Mc8jC6L7ExCf9Unx0EMYFNQ"/>](https://tortalabz.com/)
 
 [**Front End Developer**](https://www.linkedin.com/in/smmahmudur/) \
 Tortalabz Innovation\
@@ -150,7 +169,7 @@ March 2022 - Present · 2 year\
 `Front End`, `Front-End`, `Dev Front-End`, `Developer`\
 <br/>
 
-[<img align="left" height="80px" width="80px" alt="Upwork" src="https://media.licdn.com/dms/image/C4E0BAQFAvA55uI9RQQ/company-logo_100_100/0/1630655510176/upwork_logo?e=1730332800&v=beta&t=Z38PFdcyFaqmvM5JRuQ_0ESFw3VxKcLdKHL6Bklm6fM"/>](https://www.upwork.com/)
+[<img align="left" height="80px" width="80px" alt="Upwork" src="https://media.licdn.com/dms/image/v2/D560BAQFHVb6ZSCipCw/company-logo_100_100/company-logo_100_100/0/1727104517379/upwork_logo?e=1787788800&v=beta&t=Okjg5G_27T8KqRROdyT8Ws7mWdpjIp2IxI898yBhlGc"/>](https://www.upwork.com/)
 
 [**WordPress Web Developer**](https://www.linkedin.com/in/smmahmudur/) \
 Upwork\
@@ -159,7 +178,7 @@ January 2020 - July 2021 · 1 year 7 months\
  
 <br/>
 
-[<img align="left" height="80px" width="80px" alt="Smart Technologies" src="https://media.licdn.com/dms/image/C560BAQE140S_Nd6c1g/company-logo_100_100/0/1630668195900/smarttechnologiesbdlimited_logo?e=1730332800&v=beta&t=0pYX9FkWEnRWU_1FA2nt_Lj5OsHVd7AHoCsVUKpiaM0"/>](https://smartbd.com/)
+[<img align="left" height="80px" width="80px" alt="Smart Technologies" src="https://media.licdn.com/dms/image/v2/C560BAQE140S_Nd6c1g/company-logo_100_100/company-logo_100_100/0/1630668195900/smarttechnologiesbdlimited_logo?e=1787788800&v=beta&t=lH-psX4gomYlJgcwkfGr_G2T6T8KaiGcB2_9ghipL9M"/>](https://smartbd.com/)
 
 [**Technical Support Engineer (Gigabyte)**](https://www.linkedin.com/in/smmahmudur/) \
 Smart Technologies (BD) Ltd\
@@ -168,7 +187,7 @@ October 2017 - September 2019 · 2 years\
  
 <br>
 
-# 👩‍🎓 Educational background
+# 🎓 Educational background
 
 <br>
 
@@ -214,22 +233,24 @@ Feel free to connect with me on other social networks, and if you need help or h
   
 <br>
 
-# ☕ Buy Me a Coffee
-
 <br>
 
-<div>
-  <img align="right" alt="coffee code" width="130px" height="100px" src="https://media.giphy.com/media/n91JEAiCcbcBOkSzQa/giphy.gif"/>
-</div>
+# ☕ Support My Work
 
-I convert coffee to code!
-<br>
+I troubleshoot problems, build solutions, and turn coffee into code! ☕
 
-I'm passionate about technology and learning, an open source fan and I do my best to share what I'm studying to help other developers.
+I'm passionate about technology, problem-solving, and continuous learning. I enjoy helping people solve technical challenges, building software, and sharing what I learn with the developer community.
 
-I count on your support 😉
+Your support helps me keep learning, building, and contributing. 🙌
 
-<p><a href="https://buymeacoffee.com/mahmudurbd"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="teste" /></a><a href="https://ko-fi.com/mahmudur"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="teste" /></a></p><br><br>
+<p>
+  <a href="https://buymeacoffee.com/mahmudurbd">
+    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" />
+  </a>
+  <a href="https://ko-fi.com/mahmudur">
+    <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Support me on Ko-fi" />
+  </a>
+</p>
 
   
 <br>
